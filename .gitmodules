@@ -1,0 +1,6 @@
+[submodule "obiscad"]
+	path = obiscad
+	url = https://github.com/Obijuan/obiscad.git
+[submodule "MCAD"]
+	path = MCAD
+	url = https://github.com/openscad/MCAD.git
